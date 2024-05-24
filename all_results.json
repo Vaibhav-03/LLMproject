@@ -1,0 +1,222 @@
+[
+    {
+        "product_name": "Real Shaving Co. Shaving Cream Cooling 150ml",
+        "result": "{  \n\"shaving_cream\": true,  \n\"type\": \"cooling\",  \n\"size\": \"150ml\",  \n\"benefits\": [\"calming\", \"smooth_shave\"],  \n\"features\": [\"skin_calming\", \"enjoyable_shave\"]  }"
+    },
+    {
+        "product_name": "L'Oreal Paris Sublime Bronze Self-Tanning Lotion Face and Body 150ml",
+        "result": "{\"tanning\": \"self\", \"type\": [\"lotion\"], \"size\": \"150ml\", \"bronzage\": true, \"benefits\": [\"natural-looking\", \"sun-kissed\"] }"
+    },
+    {
+        "product_name": "LISTERINE\u00ae Total Care Stay White Mouthwash 500ml",
+        "result": "{  \n\"mouthwash\",  \n\"antiseptic\",  \n\"flavor\": \"mint\",  \n\"sizes\": [\"500ml\"],  \n\"type\": \"mouthwash\",  \n\"benefits\": [\"freshens breath\", \"kills germs\"]  }"
+    },
+    {
+        "product_name": "Vagisil Ultra Fresh Intimate Powder - 100g",
+        "result": "{\"intimate\": \"powder\", \"application\": \"medicated\", \"natural\": \"deodorant\", \"ingredients\": [\"moisture-absorbing\"], \"benefits\": [\"comfortable\", \"fresh\", \"eliminates odor\"]}"
+    },
+    {
+        "product_name": "Elastoplast Fabric Cut to Size Plasters 1m x 6cm",
+        "result": "{\"material\": {\"plastic\": \"elastoplast\", \"fabric\": \"breathable\"}, \"size\": [\"1m\", \"6cm\"], \"features\": [\"extra flexible\"], \"uses\": [\"dressing strip\", \"plasters\"], \"benefits\": [\"easy to apply\"]}"
+    },
+    {
+        "product_name": "Clarins Tonic Bath & Shower Concentrate 200ml",
+        "result": "{  \n\"concentration\": \"tonic\", \n\"size\": \"200ml\", \n\"usage\": [\"bath\", \"shower\"], \n\"benefits\": [\"toning\", \"skin\"], \n\"scent\": [\"rosemary\", \"rosewood\", \"mint\", \"geranium\"], \n\"foam\": \"soft\", \n\"type\": \"concentrate\"  }"
+    },
+    {
+        "product_name": "Nad's Facial Wand Kit",
+        "result": "{ \n\"purpose\": \"removes unwanted facial hair\", \n\"functionality\": [\"sculpts perfect eyebrows\"], \n\"toolkit\": [\"wand\"], \n\"type\": \"facial\" \n}"
+    },
+    {
+        "product_name": "Hawaiian Tropic Tanning Oil 4 200ml",
+        "result": "{  \n\"product_type\": \"tanning_oil\", \n\"size\": \"200ml\", \n\"scent\": \"hawaiian\", \n\"skin_benefit\": [\"moisturizes\", \"softens\"], \n\"water_resistance\": true, \n\"ingredient\": \"oil\"  }"
+    },
+    {
+        "product_name": "Clinique Anti-Blemish Solutions\u2122 3-Step System",
+        "result": "{  \n\"steps\": 3,  \n\"size\": \"travel\",  \n\"product_type\": \"system\",  \n\"benefits\": [\"acne-treating\", \"blemish-reducing\"],  \n\"key_components\": [\"salicylic acid\", \"tea tree oil\"]  \n}"
+    },
+    {
+        "product_name": "Dove Invisible Dry Anti-Perspirant Aerosol 250 ml",
+        "result": "{\n    \"deodorant\": true,\n    \"formulation\": \"anti-perspirant\",\n    \"type\": \"aerosol\",\n    \"size\": \"250ml\",\n    \"benefits\": [\"invisible dry\", \"odor-resistant\"],\n    \"ingredients\": []\n}"
+    },
+    {
+        "product_name": "Piz Buin Allergy Lotion SPF50+ 200ml",
+        "result": "{  \n\"ingredients\": [\"aloe\", \"vitamin e\"], \n\"size\": \"200ml\", \n\"sensitivity\": \"sun-sensitive\", \n\"protection\": {\"uvb\": \"advanced\", \"uva\": \"advanced\"}, \n\"benefits\": [\"soothing\", \"moisturizing\"]  }"
+    },
+    {
+        "product_name": "Activity Superstore Family Portrait",
+        "result": "{  \n\"product_type\": \"photo_session\", \n\"format\": \"unique\", \n\"sessions\": \"family_portrait\", \n\"durability\": \"forever\", \n\"features\": [\"capture_moment\", \"preserve_memory\"]  }"
+    },
+    {
+        "product_name": "Boots No Added Sugar Double Chocolate Chip Cookies (150g)",
+        "result": "{\n\"flavor\": \"double chocolate\",\n\"additives\": [\"no added sugar\"],\n\"sweetness\": \"sweeteners\",\n\"type\": \"cookies\",\n\"size\": 150,\n\"package\": \"biscuits\"\n}"
+    },
+    {
+        "product_name": "Sanex Dermo Sensitive Deodorant 150ml",
+        "result": "{\n    \"type\": \"deodorant\",\n    \"duration\": \"24 hours\",\n    \"ingredients\": {\n        \"lactoserum\": true,\n        \"dermo active 3\": true\n    },\n    \"scent\": \"\",\n    \"volume\": \"150ml\"\n}"
+    },
+    {
+        "product_name": "Colgate Sensitive PRO-Relief Toothpaste 75ml",
+        "result": "{  \n\"benefit\": [\"sensitive relief\", \"pro-argin formula\"],  \n\"dental\": true,  \n\"formula\": \"pro-argin\",  \n\"size\": 75,  \n\"type\": \"toothpaste\",  \n\"usage\": \"relieve sensitivity\" }"
+    },
+    {
+        "product_name": "Gillette Satin Care Sensitive Aloe Vera 200ml",
+        "result": "{ \n\"shaving_cream\": \"satin\", \n\"type\": \"sensitive\", \n\"ingredient\": \"aloe_vera\", \n\"size\": \"200ml\", \n\"brand\": \"gillette\" \n}"
+    },
+    {
+        "product_name": "Natural Collection Heart Eye Mask",
+        "result": "{  \n\"cooling\": \"gel\",  \n\"temperature\": \"refrigerated\",  \n\"use\": [\"relaxation\", \"eye care\"],  \n\"benefits\": [\"soothed\", \"refreshing\"],  \n\"function\": \"mask\",  \n\"application\": \"direct to skin\",  \n\"features\": [\"natural\", \"heart-shaped\"]  }"
+    },
+    {
+        "product_name": "Boots Finger Bandage and Applicator (1.6cm x 4m)",
+        "result": "{\"application\": \"finger\", \"bandage\": true, \"benefits\": [\"injury protection\", \"secure dressing\"], \"dimensions\": {\"length\": 4, \"width\": 1.6}, \"features\": [\"easy application\"]}"
+    },
+    {
+        "product_name": "Elizabeth Arden Red Door Eau De Toilette 100ml",
+        "result": "{\"fragrance\": \"floral\", \"concentration\": \"eau de toilette\", \"size\": \"100ml\", \"gender\": \"unisex\", \"brand\": \"elizabeth arden\"}"
+    },
+    {
+        "product_name": "Tutti Bambini Louis 3 in 1 Deluxe Sleigh Cot Bed with Under Bed Drawer - White",
+        "result": "{\"conversion\": \"3 in 1\", \"design\": \"sleigh\", \"material\": {\"frame\": \"wood\", \"drawerslide\": \"smooth\"}, \"functionality\": [\"storage\", \"convertible\"], \"size\": [null, \"variable\"], \"age_group\": [\"newborn\", \"childhood\"], \"features\": [\"drawer\", \"fix side\", \"full-length\"] }"
+    },
+    {
+        "product_name": "LittleLife Toddler Day Sack - Turtle",
+        "result": "{  \n\"style\": \"turtle-shell\", \n\"type\": \"daysack\", \n\"age_group\": \"toddler\", \n\"sizes\": [1], \n\"closure\": \"zipper\", \n\"material\": { \n\"outer_layer\": \"nylon\", \n\"lining\": \"polyester\" \n}, \n\"benefits\": [\"easy to clean\", \"practical\"]  }"
+    },
+    {
+        "product_name": "Boots Pharmaceuticals Cod Liver Oil 1000mg & Glucosamine Sulphate 1500mg (30 Capsules & 30 Tablets)",
+        "result": "{  \n\"supplement\": \"cod liver oil\",  \n\"strength\": 1000,  \n\"size\": 30,  \n\"type\": \"capsules\",  \n\"ingredient2\": \"glucosamine sulphate\",  \n\"strength2\": 1500,  \n\"size2\": 30,  \n\"type2\": \"tablets\",  \n\"benefit\": [\"joint flexibility\"],  \n\"brand\": \"boots pharmaceuticals\"  }"
+    },
+    {
+        "product_name": "Aveeno Body Wash 500ml dry/sensitive skin",
+        "result": "{\"formulation\": \"soap-free\", \"alcohol-free\", \"paraben-free\", \"sensitive-skin-friendly\", \"dry-skin-friendly\", \"dermatologically-tested\", \"moisturizing\", \"soothing\"}"
+    },
+    {
+        "product_name": "EcoTools Sustainable Sleep Mask",
+        "result": "{  \n\"sleep_mask\": true,  \n\"mask_type\": \"sustainable\",  \n\"sustainable_feature\": \"eco-friendly\",  \n\"benefit\": [\"restful sleep\"],  \n\"features\": [\"helps ensure\", \"non-toxic\"]  }"
+    },
+    {
+        "product_name": "Boots Tea Tree & Witch Hazel Night Gel 75ml",
+        "result": "{\n\"skin_type\": \"acne\",\n\"concerns\": [\"spots\", \"acne\"],\n\"ingredients\": [\"tea tree\", \"witch hazel\"],\n\"sizes\": [\"75ml\"],\n\"benefits\": [\"prevents\", \"fights\"]\n}"
+    },
+    {
+        "product_name": "Cow & Gate Tropical Fruit Baby Cereal 200g",
+        "result": "{ \n\"food\": \"cereal\", \n\"type\": \"baby\", \n\"flavor\": \"tropical fruit\", \n\"serving_size\": \"200g\", \n\"age_range\": \"from 7 months onwards\", \n\"vitamins\": [\"key vitamins\"], \n\"minerals\": [\"key minerals\"], \n\"sugar_free\": true, \n\"nutritional_value\": \"no added sugar\"\n}"
+    },
+    {
+        "product_name": "Mavala Mini Colour - Smokey Blue (5ml)",
+        "result": "{  \n\"size\": \"small\",  \n\"volume\": \"5ml\",  \n\"type\": \"nail polish\",  \n\"color\": \"smokey blue\",  \n\"format\": \"mini\",  \n\"brand\": \"mavala\",  \n\"benefits\": [\"won't dry up\", \"ideal for travel\"]  }"
+    },
+    {
+        "product_name": "Regaine For Men Extra Strength Minoxidil 5% Scalp Solution-3 Months Supply",
+        "result": "{  \n\"usage\": \"scalp\", \n\"purpose\": \"hair loss prevention\", \n\"results\": [\"regrowth\", \"prevents further loss\"], \n\"concentration\": 5, \n\"format\": \"solution\", \n\"dose\": \"3 months supply\"  \n}"
+    },
+    {
+        "product_name": "Boots Pharmaceuticals Paracetamol and Codeine Tablets - 32 Tablets",
+        "result": "{ \n\"usage\": \"pain relief\", \n\"duration\": \"3 days\", \n\"warning\": \"can cause addiction\", \n\"advice\": \"see leaflet\", \n\"drivers\": \"new advice\", \n\"quantity\": 32, \n\"type\": \"tablets\" \n}"
+    },
+    {
+        "product_name": "Stila One Step Illuminate Primer",
+        "result": "{  \n\"texture\": \"silky\",  \n\"application\": [\"one-step\"],  \n\"type\": \"primer\",  \n\"skin-type\": {\"normal\"},  \n\"benefits\": [\"illuminates\", \"hydrates\"],  \n\"size\": 30ml }"
+    },
+    {
+        "product_name": "Boots Sun Swim and Gym Conditioner for Coloured Hair 250ml",
+        "result": "{ \n\"product_type\": \"conditioner\", \n\"hair_concern\": \"coloured_hair\", \n\"benefits\": [\"colour_protection\"], \n\"size\": \"250ml\", \n\"usage\": [\"swim\", \"gym\"] \n}"
+    },
+    {
+        "product_name": "Cow & Gate 3 Toddler Milk Formula Liquid 1-3 Years 1L",
+        "result": "{  \n\"nutrition\": \"liquid\",  \n\"purpose\": \"milk formula\",  \n\"target_age_group\": \"toddler\",  \n\"recommended_age_range\": \"1-3 years\",  \n\"quantity\": \"1l\",  \n\"brand\": \"cow and gate\",  \n\"type\": \"formula\",  \n\"category\": \"baby food\"  }"
+    },
+    {
+        "product_name": "Fcuk Vintage Anti-Perspirant Deodorant 200ml",
+        "result": "{  \n\"product_type\": \"deodorant\", \n\"size\": \"200ml\", \n\"protection_time\": \"48 hours\", \n\"application_frequency\": \"once daily\", \n\"ingredients\": [ \"vintage\" ], \n\"benefits\": [\"long-lasting protection\", \"comfortable wear\"], \n\"fragrance\": \"anti-perspirant\" }"
+    },
+    {
+        "product_name": "Seven Seas Cranberry Forte - 50 One-A-Day Capsules",
+        "result": "{  \n\"form\": \"capsule\",  \n\"dose\": \"one-a-day\",  \n\"concentration\": \"cranberry\",  \n\"amount\": 50,  \n\"benefits\": [\"easy-to-swallow\"],  \n\"supplement\": true }"
+    },
+    {
+        "product_name": "Berocca Energy Vitamin Film Coated 30 Tablets",
+        "result": "{\n\"supplements\": \"vitamins\",\n\"type\": \"tablets\",\n\"dosage\": \"film coated\",\n\"quantity\": 30,\n\"energy\": true\n}"
+    },
+    {
+        "product_name": "Durex Play Discover",
+        "result": "{  \n\"material\": \"silicone\",  \n\"size\": 2,  \n\"application\": \"personal use\",  \n\"benefits\": [\"realistic feel\", \"easy cleanup\"],  \n\"type\": \"sex toy\" }"
+    },
+    {
+        "product_name": "Origins Pinch Your Cheeks Powder blush",
+        "result": "{  \n\"product_type\": \"blush\",  \n\"skin_concerns\": [   \n\"acne_prone\",  \"mature\"\n],  \n\"ingredients\": [   \n\"talc\",  \"magnesium_aluminum_silicate\"   \n],  \n\"benefits\": [   \n\"long_wearing\",  \"lightweight\",  \"buildable\"   \n],  \n\"texture\": \"powder\",  \n\"colour_type\": \"cheeks\",  \n\"application_type\": \"pinch\"   \n}"
+    },
+    {
+        "product_name": "Dove Beauty Cream Bar 100g",
+        "result": "{  \n\"product_type\": \"soap\",  \n\"moisturizing\": true,  \n\"bar_size\": \"100g\",  \n\"cream_content\": \"1/4\",  \n\"dry_skin_resistant\": true,  \n\"beauty_benefits\": [\"beautiful skin\"],  \n\"key_to_beautiful_skin\": \"moisture\"  }"
+    },
+    {
+        "product_name": "Prada Luna Rossa Eau de Toilette 100ml",
+        "result": "{  \n\"fragrance\": \"oriental\",  \n\"concentration\": \"eau de toilette\",  \n\"spray_type\": \"pump\",  \n\"volume\": \"100ml\",  \n\"notes\": [\"floral\", \"woody\"],  \n\"benefits\": [\"long-lasting\", \"medium-strength\"]  }"
+    },
+    {
+        "product_name": "Boots Agnus Castus PMS Relief Tablets",
+        "result": "{\"herbal\": \"agnus castus\", \"purpose\": \"pms relief\", \"symptoms\": [\"irritability\", \"mood swings\", \"breast tenderness\"], \"formulation\": \"tablets\"}"
+    },
+    {
+        "product_name": "Boots High Strength Cod Liver Oil 500mg - 60 Capsules",
+        "result": "{  \n\"capsule_count\": 60,  \n\"strength\": \"high\",  \n\"oil_type\": \"cod liver\",  \n\"size\": 500mg,  \n\"vitamins\": [\"a\", \"d\"],  \n\"benefits\": [\"essential fatty acids\", \"immune system support\"]  }"
+    },
+    {
+        "product_name": "Boots Agnes Women's Glasses - Brown",
+        "result": "{\"frameshape\": \"round\", \"framecolor\": \"brown\", \"metal\": true, \"armdetailing\": \"circle\"}"
+    },
+    {
+        "product_name": "Lancome Hypnose Drama Eyes Palette",
+        "result": "{\n    \"product_type\": \"eyeshadow_palette\",\n    \"colour_options\": 5,\n    \"intensity\": \"deep\",\n    \"smokiness\": \"high\",\n    \"application\": \"for_smoky_eye\"\n}"
+    },
+    {
+        "product_name": "Nailene So Natural Nails Short Beige",
+        "result": "{\n    \"nail_type\": \"french\",\n    \"color\": \"beige\",\n    \"material\": {\n        \"base\": \"acrylic\"\n    },\n    \"adhesive_options\": [\"glue\", \"tabs\"],\n    \"flexibility\": true,\n    \"comfort\": true\n}"
+    },
+    {
+        "product_name": "Vaseline Men Deodorant Aerosol Active Dry 125ml",
+        "result": "{  \n\"deodorant\": true, \n\"form\": \"aerosol\", \n\"scent\": null, \n\"protection\": \"48h\", \n\"alcohol_free\": true, \n\"infusion\": \"Pro-Derma\", \n\"size\": 125, \n\"unit\": \"ml\"  \n}"
+    },
+    {
+        "product_name": "TRESemm\u00e9 Conditioner 7 Day Smooth 250ml",
+        "result": "{\n\"product_type\": \"hair_care\",\n\"formulation\": \"conditioner\",\n\"benefits\": [\"salon-smooth\", \"long-lasting\"],\n\"sizes\": [250],\n\"durations\": [\"7_days\"],\n\"results\": [\"smooth\", \"frizz-free\"]\n}"
+    },
+    {
+        "product_name": "Nice'n Easy AgeDefy Permanent Hair Colour Shade 8 Medium Blonde",
+        "result": "{  \n\"hair_color\": \"blonde\", \n\"shade\": \"medium\", \n\"product_type\": \"hair_dye\", \n\"benefits\": [\"age_fighting\", \"grey_reduction\", \"color_enhancement\"], \n\"sizes\": [], \n\"vials\": 1, \n\"system\": \"3_step\" }"
+    },
+    {
+        "product_name": "LABSONIC 2 x Replacement Wrinkle Erasers",
+        "result": "{\n\"purpose\": \"wrinkle eraser\",\n\"form\": \"erasers\",\n\"material\": {\n\"body\": \"plastic\"\n},\n\"sizes\": [2],\n\"benefits\": [\"reduces appearance of fine lines and wrinkles\"],\n\"uses_with\": \"sonic cleansing brush\"\n}"
+    },
+    {
+        "product_name": "Estee Lauder Double Wear Brush-On Glow BB Highlighter",
+        "result": "{  \n\"category\": \"cosmetics\", \n\"product_type\": \"bb highlighter\", \n\"application_method\": \"brush-on\", \n\"finish\": \"glow\", \n\"benefits\": [\"natural-looking\", \"long-lasting\"], \n\"shade\": [\"universal\"], \n\"size\": 15.5ml, \n\"packaging\": \"bottle\"  }"
+    },
+    {
+        "product_name": "Soap & Glory Arch De Triumph Eyebrow Shaper & Highlighter",
+        "result": "{  \n\"product_type\": \"eyebrow_shaper\", \n\"material\": \"plastic\", \n\"usage\": [\"shaping\", \"highlighting\"], \n\"benefits\": [\"instantly_beautiful_brows\", \"lifts\"], \n\"color\": null, \n\"size\": null, \n\"packaging\": \"individual_item\"  }"
+    },
+    {
+        "product_name": "Toni&Guy 3D Volumiser Spray 150ml",
+        "result": "{ \n\"texture\": \"volumizing\", \n\"type\": \"spray\", \n\"size\": \"150ml\", \n\"benefits\": [\"body\", \"fullness\"], \n\"usage\": \"work it through hair\" \n}"
+    },
+    {
+        "product_name": "Babyway Karibu Foldable Bath",
+        "result": "{  \n\"foldable\": true,  \n\"material\": {  \n\"shell\": \"plastic\",  \n\"liner\": \"nylon\"  \n},  \n\"purpose\": [\"baby bathing\"],  \n\"benefits\": [\"portability\", \"ease of use\"],  \n\"sizes\": [15.5, 19.7],  \n\"features\": [\"adjustable handle\", \"non-slip base\"]  \n}"
+    },
+    {
+        "product_name": "Jigsaw 1408 Womens Glasses - Tortoise Shell - Exclusive to Boots",
+        "result": "{  \n\"frame\": \"solid plastic\", \n\"color\": \"tortoise shell\", \n\"glasses_type\": \"women's\", \n\"style\": \"geek chic\", \n\"exclusivity\": [\"exclusive to boots\", \"exclusive to boots opticians\"]  }"
+    },
+    {
+        "product_name": "MAM Trainer Bottle - Pink",
+        "result": "{  \n\"material\": {  \n\"body\": \"plastic\",  \n\"teat\": \"silicone\"  \n},  \n\"size\": 200ml,  \n\"safety\": [\"non-spill\", \"soft-spout\"],  \n\"feature\": [\"handles\", \"transition-friendly\"]  }"
+    },
+    {
+        "product_name": "KISS Look So Natural Lash Shy",
+        "result": "{\n\"lash\": {\n\"type\": \"individual\"\n},\n\"technology\": \"revolutionary\",\n\"end\": \"tapered\"\n}"
+    }
+]

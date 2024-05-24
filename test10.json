@@ -1,0 +1,21 @@
+//52138446110072938Dove Invisible Dry Anti-Perspirant Aerosol 250 ml
+//llama3
+{ 
+     "brand":    "Dove", 
+     "product_type":    "anti-perspirant aerosol", 
+     "features":   [ 
+         "invisible dry formula", 
+         "long-lasting protection against sweat and odor" 
+     ], 
+     "size":    "250ml", 
+     "application_method":    "spray underarms as needed"
+}
+//mistral
+{
+    "brand": "Dove",
+    "type": "anti-perspirant",
+    "size": {
+      "volume": "250ml"
+    },
+    "features": ["invisible dry"]
+  }

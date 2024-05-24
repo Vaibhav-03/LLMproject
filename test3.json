@@ -1,0 +1,18 @@
+//52137921710003351LISTERINE® Total Care Stay White Mouthwash 500ml
+//llama3
+{ 
+    "brand": "LISTERINE", 
+    "product_type": "mouthwash", 
+    "benefits": ["stay white"], 
+    "features": ["total care"], 
+    "size": 500, 
+    "application_method": "mouthwash" 
+}
+//mistral
+{
+    "brand": "LISTERINE",
+    "type": "mouthwash",
+    "size": "500ml",
+    "benefits": ["whitens teeth", "freshens breath"],
+    "effects": ["kills germs"]
+  }

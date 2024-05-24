@@ -1,0 +1,31 @@
+//52137940910008188Vagisil Ultra Fresh Intimate Powder - 100g
+{
+    "brand": "Vagisil",
+    "product_type": "intimate powder",
+    "benefits": [
+        "comfortable and fresh",
+        "moisture-absorbing",
+        "natural deodorant"
+    ],
+    "features": [
+        "medicated feminine powder",
+        "eliminates odour"
+    ],
+    "concerns": ["personal hygiene"],
+  
+    "size": "100 g",
+    "application_method": "powder",
+    "special_features": [
+        "natural deodorant",
+        "eliminates odour rather than masking it with perfume"
+    ]
+}
+// mistral
+{
+    "brand": "Vagisil",
+    "type": "intimate powder",
+    "size": "100g",
+    "benefits": ["freshens intimate area", "absorbs moisture", "contains natural deodorant", "eliminates 
+  odour"],
+    "effects": ["feels comfortable", "does not mask odour with perfume"]
+  }

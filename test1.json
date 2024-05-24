@@ -1,0 +1,28 @@
+
+// 50219321710009700L'Oreal Paris Sublime Bronze Self-Tanning Lotion Face and Body 150ml2012-05-23L'Orealf""""
+//llama3 model
+{
+     "brand": "L'Oreal Paris",
+     "product_type": "self-tanning lotion",
+     "skin_concerns": ["dry", "soothing"],
+     "benefits": [
+         "natural looking tan",
+         "sun-kissed tone"
+     ],
+     "features": [
+         "smooth melting lotion",
+         "develops a tan"
+     ],
+     "usage": ["face and body"],
+     "size": 150,
+     "application_method": "lotion"
+}
+
+//mistral
+{
+    "brand": "L'Oreal Paris",
+    "type": "self-tan lotion",
+    "size": "150ml",
+    "benefits": ["natural looking tan", "sun-kissed appearance"],
+    "texture": "smooth melting"
+  }

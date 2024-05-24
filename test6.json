@@ -1,0 +1,26 @@
+//52138038010023281Clarins Tonic Bath & Shower Concentrate 200ml
+//llama3
+{ 
+       "brand":  "Clarins", 
+       "product_type":  "bath and shower concentrate", 
+       "features":  [ 
+           "toning benefits for the skin", 
+           "pleasure for the senses", 
+           "gentle, soft foam" 
+       ], 
+       "size":   "200ml", 
+       "ingredients": ["Rosemary", "Rosewood", "Mint", "Geranium"], 
+       "application_method":  "shower or bath", 
+       "benefits":  [ 
+           "toning benefits for the skin", 
+           "pleasure for the senses" 
+       ] 
+}
+//mistral
+{
+"brand": "Clarins",
+"type": "tonic bath & shower concentrate",
+"size": "200ml",
+"scents": ["rosemary", "rosewood", "mint", "geranium"],
+"texture": "softly foaming"
+}

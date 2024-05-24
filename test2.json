@@ -1,0 +1,26 @@
+//50219270310037757Real Shaving Co. Shaving Cream Cooling 150ml
+//llama3
+{
+    "brand": "Real Shaving Co.",
+    "product_type": "shaving cream",
+    "benefits": [
+        "calms the skin",
+        "smooth shave",
+        "cooling formula"
+    ],
+    "features": [
+        "enjoyable shave"
+    ],
+    "skin_concerns": ["irritated"],
+    "size": 150,
+    "application_method": "lotion"
+}
+//mistral
+{
+    "brand": "Real Shaving Co.",
+    "type": "shaving cream",
+    "size": "150ml",
+    "benefits": ["cooling formula", "smooth shave"],
+    "effects": ["calms skin"]
+ }
+  

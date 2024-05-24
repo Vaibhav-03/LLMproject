@@ -1,0 +1,18 @@
+[
+    {
+        "product_name": "Real Shaving Co. Shaving Cream Cooling 150ml",
+        "result": " ```json {\n  \"size\": \"150ml\",\n  \"benefits\": [\"cooling\", \"smooth shave\", \"enjoyable\"]\n}\n```"
+    },
+    {
+        "product_name": "L'Oreal Paris Sublime Bronze Self-Tanning Lotion Face and Body 150ml",
+        "result": " ```json {\n  \"product_type\": \"self-tanning lotion\",\n  \"brand\": \"L'Oreal Paris\",\n  \"size\": \"150ml\",\n  \"benefits\": [\"natural looking tan\", \"sun kissed appearance\"]\n}\n```"
+    },
+    {
+        "product_name": "LISTERINE\u00ae Total Care Stay White Mouthwash 500ml",
+        "result": " ```json {\n  \"size\": \"500ml\",\n  \"benefits\": [\"whitening\"],\n  \"brand\": \"listerine\"\n}\n```"
+    },
+    {
+        "product_name": "Vagisil Ultra Fresh Intimate Powder - 100g",
+        "result": " ```json {\n   \"product_type\": \"intimate_powder\",\n   \"size\": \"100g\",\n   \"benefits\": [\"moisture-absorbing\", \"medicated\", \"odor-eliminating\"],\n   \"ingredients\": [\"natural_deodorant\"]\n}\n```"
+    }
+]

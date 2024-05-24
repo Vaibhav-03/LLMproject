@@ -1,0 +1,17 @@
+//52138359610065298Clinique Anti-Blemish Solutions™ 3-Step System
+//llama3
+{ 
+      "brand":     "Clinique", 
+      "product_ type":     "anti-blemish system", 
+      "features":    [ 
+          "3-step system for acne-prone skin", 
+          "helps to reduce blemishes and prevent new ones from forming" 
+      ], 
+      "application_method":     "apply in the morning and evening as directed"
+}
+//mistral
+{
+    "brand": "Clinique",
+    "type": "skincare system",
+    "intendedUse": ["addresses blemishes and acne"]
+  }

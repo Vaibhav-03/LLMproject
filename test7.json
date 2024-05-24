@@ -1,0 +1,19 @@
+//52138101810034740Nad's Facial Wand Kit
+//llama3
+{ 
+    "brand":  "Nad's", 
+    "product_ type":  "facial wand kit", 
+    "features": [ 
+        "removes unwanted facial hair", 
+        "sculpts perfect eyebrows" 
+    ], 
+    "purpose": ["eyebrow shaping", "facial hair removal"], 
+    "application_method": "manual use"
+}
+//mistral
+{
+    "brand": "Nad's",
+    "type": "facial wand kit",
+    "function": ["removes unwanted facial hair", "sculpts perfect eyebrows"]
+  }
+  

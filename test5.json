@@ -1,0 +1,26 @@
+//52138028510022333Elastoplast Fabric Cut to Size Plasters 1m x 6cm
+//llama3
+{
+    "brand": "Elastoplast",
+    "product_type": "dressing strip",
+    "features": [
+        "cut to size",
+        "fabric",
+        "extra flexible",
+        "breathable"
+    ],
+    "size": "6cm x 10cm (each strip)",
+    "quantity": "10 strips",
+    "application_method": "adhesive strip"
+}
+//mistral
+{
+    "brand": "Elastoplast",
+    "type": "plaster strips",
+    "size": {
+      "width": "6cm",
+      "length": "1m"
+    },
+    "count": "10",
+    "properties": ["extra flexible", "breathable"]
+  }
